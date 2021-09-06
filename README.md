@@ -16,5 +16,5 @@ Me chamo Gabriel Nunes Müller e estudo programação na SATC, eis a seguir minh
       <BR>
  DESCRIÇÃO:Estes arquivos são as questões avaliativas da primeira avaliação.
        <BR>
-  Espero poder tirar uma boa nota com este arquivo, e caso esteja lendo isto prof, te desejo um ótimo dia! <3 <BR>
-        <img src="https://c.tenor.com/NaNUyySZlLQAAAAC/senko-the-helpful-fox-senko-san.gif">
+  Estou feliz que consegui fazer este código com certa velocidade, e ainda mante-lo funcional e bonito visualmente, espero que eu consiga melhorar cada vez mais! <BR>
+        <img src="https://data.whicdn.com/images/213662702/original.gif">
